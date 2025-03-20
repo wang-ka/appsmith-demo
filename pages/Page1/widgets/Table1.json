@@ -33,7 +33,6 @@
   },
   "columnOrder": [
     "id",
-    "gender",
     "latitude",
     "longitude",
     "dob",
@@ -44,9 +43,10 @@
     "name",
     "created_at",
     "updated_at",
+    "gender",
     "EditActions1"
   ],
-  "columnUpdatedAt": 1742463512412,
+  "columnUpdatedAt": 1742464102027,
   "columnWidthMap": {},
   "customIsLoading": false,
   "customIsLoadingValue": "",
@@ -373,7 +373,7 @@
       "label": "gender",
       "notation": "standard",
       "originalId": "gender",
-      "sticky": "",
+      "sticky": "right",
       "textSize": "0.875rem",
       "thousandSeparator": true,
       "validation": {},
